@@ -2,6 +2,9 @@
 
 use NSGA2 to solve Workshop rescheduling
 
+实验结果：
+![](https://github.com/zp1008611/NSGA2_Workshop_rescheduling/blob/main/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%B0%83%E5%BA%A6%E7%BB%93%E6%9E%9C.png)
+
 ## 1 前置知识
 
 ## 1.1 编码
