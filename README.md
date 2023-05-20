@@ -8,7 +8,9 @@ use NSGA2 to solve Workshop rescheduling
 
 本文利用遗传算法来实现柔性车间调度问题，所使用的编码规则如下：
 
-![1684570319896](image/README/1684570319896.png)
+
+![1684570319896](https://github.com/zp1008611/NSGA2_Workshop_rescheduling/assets/59312863/89e5c01f-eb2a-4d20-9396-1a3a26020be4)
+
 
 job中的数字代表第(数字+1)个订单，数字出现的次数代表订单的第几道工序，machine和machine对应的位置就是该订单该道工序的加工机器和加工时间。例如：
 
